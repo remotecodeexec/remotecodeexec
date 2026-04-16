@@ -3,10 +3,10 @@
 ---
 
 <div align="left">
-  <a href="[Your LinkedIn URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/lu%C3%ADs-marques-267670221" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[Your detections.ai URL]" target="_blank">
+  <a href="https://detections.ai/user/remotecodeexecution" target="_blank">
     <img src="https://img.shields.io/badge/Detections.ai-1E1E1E?style=for-the-badge&logo=target&logoColor=yellow" alt="Detections.ai" />
   </a>
 </div>
